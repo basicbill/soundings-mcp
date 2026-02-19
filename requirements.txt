@@ -1,0 +1,7 @@
+fastmcp>=0.4.1
+httpx
+uvicorn
+metpy
+numpy<2.0.0
+matplotlib
+boto3
